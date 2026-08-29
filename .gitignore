@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+mule-project/
+isag_document.json
+technical_design_spec.json
+AGENTS.md
+mapping.csv
+*.docx
+.env
